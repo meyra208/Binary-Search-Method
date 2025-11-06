@@ -1,0 +1,14 @@
+C:\Users\Meyra\Desktop\ikiliarama\bin\Debug\net9.0\ikiliarama.exe
+C:\Users\Meyra\Desktop\ikiliarama\bin\Debug\net9.0\ikiliarama.deps.json
+C:\Users\Meyra\Desktop\ikiliarama\bin\Debug\net9.0\ikiliarama.runtimeconfig.json
+C:\Users\Meyra\Desktop\ikiliarama\bin\Debug\net9.0\ikiliarama.dll
+C:\Users\Meyra\Desktop\ikiliarama\bin\Debug\net9.0\ikiliarama.pdb
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.AssemblyInfoInputs.cache
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.AssemblyInfo.cs
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.csproj.CoreCompileInputs.cache
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.dll
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\refint\ikiliarama.dll
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.pdb
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ikiliarama.genruntimeconfig.cache
+C:\Users\Meyra\Desktop\ikiliarama\obj\Debug\net9.0\ref\ikiliarama.dll
